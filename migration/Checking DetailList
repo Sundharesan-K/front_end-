@@ -1,0 +1,83 @@
+tt_document_transformend  
+
+seller_facility exsists ==> 162
+
+     facility_id exists == 96
+     
+ This query fetched the facility_id not exists documents ==>66
+     
+ { "tc_extracted_data.tx_type" : "inbound", "tc_extracted_data.seller_facility" : { $exists : true }, "tc_extracted_data.seller_facility.facility_id" : { $exists : false } }
+ 
+ 
+  "_id" : ObjectId("62b1e0c782b44d06a2ffb06c")
+  "_id" : ObjectId("62b41b7c82b44d06a2ffd162")
+  "_id" : ObjectId("62bacef582b44d06a2ffe45c")
+  "_id" : ObjectId("62bc1b8682b44d06a2ffe903")
+  "_id" : ObjectId("62bda79b82b44d06a200042c")
+  "_id" : ObjectId("62bdbca44af39d2418c02aba")
+  "_id" : ObjectId("62b1e0c782b44d06a2ffb06c")
+  "_id" : ObjectId("62b41b7c82b44d06a2ffd162")
+  "_id" : ObjectId("62bacef582b44d06a2ffe45c")
+  "_id" : ObjectId("62bc1b8682b44d06a2ffe903")
+  "_id" : ObjectId("62bda79b82b44d06a200042c")
+  "_id" : ObjectId("62bdbca44af39d2418c02aba")
+  "_id" : ObjectId("62c826e5c043b53166ab5360")
+  "_id" : ObjectId("62da6463394ba24669ab8264")
+  "_id" : ObjectId("62efc4cbfd67e00b67f6b5d8")
+  "_id" : ObjectId("638439c46c04044cd007ce16") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("6384439c6c04044cd007ce2a") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("638dd74a2caad8007a580980") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("638ee69737b3296d8781e9a2") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("638efdb63520ea6a44e35864") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("638f24d4c2494740e052c411") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("639c51fc3a6849752644a0c1") ==> "facility_reference_id" :"2022TTFAC171" matched pro 
+  "_id" : ObjectId("630db35da7538a656bfb7436") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("634d595601a43415721845d4") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("63733f9893a9ab2f4c22de73") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("6373508f93a9ab2f4c22de96") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("637357f37a6c3c6d960b88c8") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("637b6243b6c7e852d42f5820") ==> "facility_reference_id" :"2022TTFAC171" matched pro
+  "_id" : ObjectId("63259aca027afb7a3e4c3738")
+  "_id" : ObjectId("632bea496e280855be65b769")
+  "_id" : ObjectId("632bf9904773f222c386dff5")
+  "_id" : ObjectId("632bfa7e6e280855be65b7bb")
+  "_id" : ObjectId("633411e44773f222c3871eb7")
+  "_id" : ObjectId("633437be4773f222c3871ffb")
+  "_id" : ObjectId("636c1f9e4142b946f646700c")
+  "_id" : ObjectId("636d261afa5fb113e335f9de")
+  "_id" : ObjectId("637337134142b946f646840e")
+  "_id" : ObjectId("637338a24142b946f646842f")
+  "_id" : ObjectId("63733a814142b946f6468448")
+  "_id" : ObjectId("61e90205ca26f6646e89ef5c")
+  "_id" : ObjectId("61e93be162adbe4f42ab3bdd")
+  "_id" : ObjectId("61f37863386596543c9b9d54")
+  "_id" : ObjectId("6201fda7666c267529c3c385")
+  "_id" : ObjectId("620236657dc8726b51ffb782")
+  "_id" : ObjectId("620e5e45237d611403b5c12b")
+  "_id" : ObjectId("621dd793e1c3d127c9fe511b")
+  "_id" : ObjectId("621f63d1e1c3d127c9fe556b")
+  "_id" : ObjectId("6221b2498a92d5184a09424f")
+  "_id" : ObjectId("6221e9958a92d5184a0942a4")
+  "_id" : ObjectId("62293311e1c3d127c9fe61a8")
+  "_id" : ObjectId("6229bbdcd142195edca3610d")
+  "_id" : ObjectId("6229bc6ad142195edca36111")
+  "_id" : ObjectId("6229c8e9d142195edca36147")
+  "_id" : ObjectId("6229dccc7c530a5145f8ee65")
+  "_id" : ObjectId("62308fa557489b1484868e38")
+  "_id" : ObjectId("6230bbd39186c21fd5584306")
+  "_id" : ObjectId("6237b4b157489b14848693b0")
+  "_id" : ObjectId("6239ca439186c21fd5584bdf")
+  "_id" : ObjectId("624543b1878c1d7cafd70152")
+  "_id" : ObjectId("624d740c9e01dc4ce28e69a5")
+  "_id" : ObjectId("624d792f878c1d7cafd7124e")
+  "_id" : ObjectId("624d7b03878c1d7cafd7125f")
+  "_id" : ObjectId("624d7d5a9e01dc4ce28e69cd")
+  "_id" : ObjectId("624e84aba2e69f3bcaeeaab0")
+  "_id" : ObjectId("625689dfa08c985c8a0b27d4")
+  "_id" : ObjectId("627113ad6b098e30d1d6d5cc")
+  "_id" : ObjectId("6282b3184af39d2418be196b")
+  "_id" : ObjectId("6283756482b44d06a2fe088b")
+  "_id" : ObjectId("6284901082b44d06a2fe0eca")
+  "_id" : ObjectId("628cd8d84af39d2418be413b")
+  "_id" : ObjectId("62b08af282b44d06a2ffa3c3")
+  "_id" : ObjectId("62b1d0684af39d2418bfe9f0")
